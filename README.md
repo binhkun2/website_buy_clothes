@@ -13,7 +13,7 @@
 - Source Code: [Source Code](https://github.com/binhkun2/website_buy_clothes/tree/main/web_quan_ao)
 
 
-<p align='center'><img style="height: 800px" "width: 600px" src="[https://github.com/ducducqn123/Website-Selling-Food/blob/ce4ab91b045d777d82beee1935e5df8eed736797/demo.png]"></p>
+<p align='center'><img style="height: 800px" "width: 600px" src="https://github.com/ducducqn123/Website-Selling-Food/blob/ce4ab91b045d777d82beee1935e5df8eed736797/demo.png"></p>
 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2022 - Trương Quốc Bình`
