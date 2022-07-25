@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Website bán quần áo thời trang (đồ án môn Phát triển ứng dụng web)
 
 You can use the [editor on GitHub](https://github.com/binhkun2/website_buy_clothes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
