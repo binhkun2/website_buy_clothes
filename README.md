@@ -13,7 +13,7 @@
 - Source Code: [Source Code](https://github.com/binhkun2/website_buy_clothes/tree/main/web_quan_ao)
 
 
-<p align='center'><img style="height: 800px" src="[https://github.com/binhkun2/demo.png](https://github.com/binhkun2/website_buy_clothes/blob/main/demo.png)"></p>
+<p align='center'><img style="height: 800px" "width: 600px" src="[https://github.com/binhkun2/website_buy_clothes/blob/main/demo.png](https://github.com/binhkun2/website_buy_clothes/blob/main/demo.png)"></p>
 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2022 - Trương Quốc Bình`
